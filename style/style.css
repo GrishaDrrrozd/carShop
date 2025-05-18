@@ -120,4 +120,10 @@
 .button:hover{
 	background-color: #a8ae16;
 }
+.main-image{
+ position: absolute;
+ z-index: -1;
+ top: 78px;
+ right: -576px;	
+}
   
