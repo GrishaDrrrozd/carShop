@@ -126,4 +126,6 @@
  top: 78px;
  right: -576px;	
 }
-  
+.button{
+	border-radius: 20px;
+}
