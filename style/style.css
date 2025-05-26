@@ -129,3 +129,22 @@
 .button{
 	border-radius: 20px;
 }
+.cars{
+	background-color: black;
+	padding: 130px 0;
+}
+.cars h2{
+	font-size: 65px;
+	font-weight: normal;
+}
+
+.cars-content{
+	display: flex;
+}
+.cars-filter{
+	margin-left: 77px;
+}
+
+.cars-item{
+	display: inline
+}
